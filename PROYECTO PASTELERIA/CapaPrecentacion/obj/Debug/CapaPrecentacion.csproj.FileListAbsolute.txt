@@ -1,0 +1,10 @@
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.csproj.AssemblyReference.cache
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.Login.resources
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.Properties.Resources.resources
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.csproj.GenerateResource.cache
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO PASTELERIA\CapaPrecentacion\bin\Debug\CapaPrecentacion.exe.config
+D:\PROYECTO PASTELERIA\CapaPrecentacion\bin\Debug\CapaPrecentacion.exe
+D:\PROYECTO PASTELERIA\CapaPrecentacion\bin\Debug\CapaPrecentacion.pdb
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.exe
+D:\PROYECTO PASTELERIA\CapaPrecentacion\obj\Debug\CapaPrecentacion.pdb

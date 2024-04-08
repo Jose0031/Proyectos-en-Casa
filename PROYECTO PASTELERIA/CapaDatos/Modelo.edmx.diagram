@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="02675bc3c8334698bf9ef721d3e0692c" Name="Diagram1">
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Catalogo" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Categoria" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Cliente" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Compra" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.DetalleCompra" Width="1.5" PointX="5.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.DetalleVenta" Width="1.5" PointX="8.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Permiso" Width="1.5" PointX="3.75" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Producto" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Proveedor" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Rol" Width="1.5" PointX="1.5" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Usuario" Width="1.5" PointX="3.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDPASTELERIAModel.Venta" Width="1.5" PointX="6" PointY="13.875" IsExpanded="true" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__Producto__idCate__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__DetalleCo__idCom__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__DetalleCo__idPro__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__DetalleVe__idPro__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__DetalleVe__idVen__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__Permiso__idRol__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__Usuario__idRol__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="BDPASTELERIAModel.FK__Venta__idUsuario__3F466844" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
